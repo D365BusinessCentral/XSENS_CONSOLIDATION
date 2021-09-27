@@ -1,0 +1,33 @@
+{
+  "id": "e5b45752-f08e-4794-b855-313f159019e1",
+  "name": "Xsens Consolidation",
+  "publisher": "Intwo",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "cd5c3345-ce77-4896-b104-1b8920927115",
+      "name": "Xsens",
+      "publisher": "Levtech",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://XsensConsolidation.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
