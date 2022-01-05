@@ -1,7 +1,7 @@
 table 50100 "Blob Storage Account"
 {
     DataClassification = ToBeClassified;
-    
+
     fields
     {
         field(1; "Primary Key"; Code[20])
